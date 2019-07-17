@@ -1,0 +1,19 @@
+{
+  "name": "repro-babel-location-ie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hypnosphi/repro-babel-location-ie.git",
+  "author": "Hypnosphi <Filipp.Riabchun@jetbrains.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/preset-env": "^7.5.4",
+    "babel-loader": "^8.0.6",
+    "core-js": "^3.1.4",
+    "webpack": "^4.36.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
